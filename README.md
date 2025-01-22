@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Augusto César
+# 👨‍💻 Augusto César
 
 **`Desenvolvedor FullStack`**
 
