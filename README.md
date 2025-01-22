@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Augusto César, tenho 23 anos e sou natural de Minas Gerais. Concluí o ensino médio no Colégio Integrado de Caratinga. Sou formado em Ciência da Computação pela Faculdade Doctum de Caratinga, estou cursando Pós-Graduação em Engenharia de Softwares também na Faculdade Doctum de Caratinga. Gosto muito de tecnologia e tenho uma grande ambição em aprender cada vez mais, sempre inovando e criando meios para desenvolver novos processos e ideias.
+Me chamo Augusto César, tenho 23 anos e sou natural de Minas Gerais. Concluí o ensino médio no Colégio Integrado de Caratinga. Sou formado em Ciência da Computação pela Faculdade Doctum de Caratinga, estou cursando Pós-Graduação em Engenharia de Softwares também na Faculdade Doctum de Caratinga. Trabalho a pouco mais de 4 anos com programação, gosto muito de tecnologia e tenho uma grande ambição em aprender cada vez mais, sempre inovando e criando meios para desenvolver novos processos e ideias.
 
 ---
 
